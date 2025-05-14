@@ -1,0 +1,10 @@
+创建环境：conda create -n ai_study python=3.10
+ai_study 是环境名  python=3.10是指定python版本
+激活创建的环境：conda activate ai_study 激活 ai_study 这个环境
+安装项目所需依赖库：pip install -r requirements.txt(这里没有)
+
+RAG通常指的是Retrieval-Augmented Generation（检索增强生成）
+retrieval主要用作名词，作名词时译为“检索；恢复；找回，取回
+argument：v.增加、增强、扩大、充填
+		n.  增加
+generation：一代人、产生、发生
